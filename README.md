@@ -29,6 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepam-Sharma?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepam-sharma-332240134/)
+- - :mailbox:My Email Id: [![Email Badge](https://img.shields.io/badge/-Deepam-Sharma?style=flat&logo=Email&logoColor=white)](mailto:deepamsharma668@gmail.com)
 
 ---
 

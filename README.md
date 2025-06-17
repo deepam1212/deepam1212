@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
-  <a href="https://www.linkedin.com/in/deepam-sharma-332240134/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/deepam1212/">
-    <img src="https://img.shields.io/badge/LeetCode-orange" alt="Leetcode Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/deepam-sharma-332240134/" target="_blank" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://leetcode.com/u/deepam1212/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+</a>
 </div>
     <h1>
   hey there
